@@ -1,56 +1,45 @@
 [{
-		"type": "video/mp4",
-		"src": "./Mondstadt/Ambor_Readings.mp4",
-		"tumb": "movie.jpg"
+		"title": "Ambor_Readings.mp4",
+		"url": "./Mondstadt/Ambor_Readings.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/ChangeWeather.mp4",
-		"tumb": "movie.jpg"
+		"title": "ChangeWeather.mp4",
+		"url": "./Mondstadt/ChangeWeather.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/Cs_MDAQ018_MDCityShow.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_MDAQ018_MDCityShow.mp4",
+		"url": "./Mondstadt/Cs_MDAQ018_MDCityShow.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/Cs_MDAQ019_DragonInCity_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_MDAQ019_DragonInCity_Boy.mp4",
+		"url": "./Mondstadt/Cs_MDAQ019_DragonInCity_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/Cs_MDAQ019_DragonInCity_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_MDAQ019_DragonInCity_Girl.mp4",
+		"url": "./Mondstadt/Cs_MDAQ019_DragonInCity_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/Cs_MDAQ071_Davalin_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_MDAQ071_Davalin_Boy.mp4",
+		"url": "./Mondstadt/Cs_MDAQ071_Davalin_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/Cs_MDAQ071_Davalin_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_MDAQ071_Davalin_Girl.mp4",
+		"url": "./Mondstadt/Cs_MDAQ071_Davalin_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/Cs_WDLQ004_VentiLegends.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_WDLQ004_VentiLegends.mp4",
+		"url": "./Mondstadt/Cs_WDLQ004_VentiLegends.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/MDAQ041.mp4",
-		"tumb": "movie.jpg"
+		"title": "MDAQ041.mp4",
+		"url": "./Mondstadt/MDAQ041.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/MDAQ063_ZhaiXingYaSideB_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "MDAQ063_ZhaiXingYaSideB_Boy.mp4",
+		"url": "./Mondstadt/MDAQ063_ZhaiXingYaSideB_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Mondstadt/MDAQ063_ZhaiXingYaSideB_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "MDAQ063_ZhaiXingYaSideB_Girl.mp4",
+		"url": "./Mondstadt/MDAQ063_ZhaiXingYaSideB_Girl.mp4"
 	}
 ]

@@ -1,31 +1,25 @@
 [{
-		"type": "video/mp4",
-		"src": "./other/battlePass.mp4",
-		"tumb": "movie.jpg"
+		"title": "battlePass.mp4",
+		"url": "./other/battlePass.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./other/Cs_ShieldingResources_02.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_ShieldingResources_02.mp4",
+		"url": "./other/Cs_ShieldingResources_02.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./other/Cs_WQDY1800026_Memories.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_WQDY1800026_Memories.mp4",
+		"url": "./other/Cs_WQDY1800026_Memories.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./other/MDAQ001_OPNew_Part1.mp4",
-		"tumb": "movie.jpg"
+		"title": "MDAQ001_OPNew_Part1.mp4",
+		"url": "./other/MDAQ001_OPNew_Part1.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./other/MDAQ001_OPNew_Part2_PlayerBoy.mp4",
-		"tumb": "movie.jpg"
+		"title": "MDAQ001_OPNew_Part2_PlayerBoy.mp4",
+		"url": "./other/MDAQ001_OPNew_Part2_PlayerBoy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./other/MDAQ001_OPNew_Part2_PlayerGirl.mp4",
-		"tumb": "movie.jpg"
+		"title": "MDAQ001_OPNew_Part2_PlayerGirl.mp4",
+		"url": "./other/MDAQ001_OPNew_Part2_PlayerGirl.mp4"
 	}
 ]

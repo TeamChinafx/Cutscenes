@@ -1,106 +1,85 @@
 [{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_102106_Summon_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_102106_Summon_Boy.mp4",
+		"url": "./Liyue/Cs_102106_Summon_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_102106_Summon_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_102106_Summon_Girl.mp4",
+		"url": "./Liyue/Cs_102106_Summon_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_102203_BeforeBattle_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_102203_BeforeBattle_Boy.mp4",
+		"url": "./Liyue/Cs_102203_BeforeBattle_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_102203_BeforeBattle_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_102203_BeforeBattle_Girl.mp4",
+		"url": "./Liyue/Cs_102203_BeforeBattle_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_102205_AfterBattle_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_102205_AfterBattle_Boy.mp4",
+		"url": "./Liyue/Cs_102205_AfterBattle_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_102205_AfterBattle_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_102205_AfterBattle_Girl.mp4",
+		"url": "./Liyue/Cs_102205_AfterBattle_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_GY11030_GYPersonal.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_GY11030_GYPersonal.mp4",
+		"url": "./Liyue/Cs_GY11030_GYPersonal.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LiYue_AQ80070101_StopMechanismBig_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LiYue_AQ80070101_StopMechanismBig_Boy.mp4",
+		"url": "./Liyue/Cs_LiYue_AQ80070101_StopMechanismBig_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LiYue_AQ80070101_StopMechanismBig_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LiYue_AQ80070101_StopMechanismBig_Girl.mp4",
+		"url": "./Liyue/Cs_LiYue_AQ80070101_StopMechanismBig_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.mp4",
+		"url": "./Liyue/Cs_LiYue_LQ10310301_BreakThroughSpace_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.mp4",
+		"url": "./Liyue/Cs_LiYue_LQ10310301_BreakThroughSpace_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LiYue_LQ10310601_FusheStory.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LiYue_LQ10310601_FusheStory.mp4",
+		"url": "./Liyue/Cs_LiYue_LQ10310601_FusheStory.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LiYue_LQ110261501_YelanStory_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LiYue_LQ110261501_YelanStory_Boy.mp4",
+		"url": "./Liyue/Cs_LiYue_LQ110261501_YelanStory_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LiYue_LQ110261501_YelanStory_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LiYue_LQ110261501_YelanStory_Girl.mp4",
+		"url": "./Liyue/Cs_LiYue_LQ110261501_YelanStory_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_Liyue_LQ1102907_LC.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Liyue_LQ1102907_LC.mp4",
+		"url": "./Liyue/Cs_Liyue_LQ1102907_LC.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LQ1101502_ShenheBattle_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LQ1101502_ShenheBattle_Boy.mp4",
+		"url": "./Liyue/Cs_LQ1101502_ShenheBattle_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LQ1101502_ShenheBattle_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LQ1101502_ShenheBattle_Girl.mp4",
+		"url": "./Liyue/Cs_LQ1101502_ShenheBattle_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LQ1101505_YunjinOpera_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LQ1101505_YunjinOpera_Boy.mp4",
+		"url": "./Liyue/Cs_LQ1101505_YunjinOpera_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LQ1101505_YunjinOpera_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LQ1101505_YunjinOpera_Girl.mp4",
+		"url": "./Liyue/Cs_LQ1101505_YunjinOpera_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LYAQ107_NingGuang.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LYAQ107_NingGuang.mp4",
+		"url": "./Liyue/Cs_LYAQ107_NingGuang.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Liyue/Cs_LYAQ1112308_LongWangStroy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LYAQ1112308_LongWangStroy.mp4",
+		"url": "./Liyue/Cs_LYAQ1112308_LongWangStroy.mp4"
 	}
 ]

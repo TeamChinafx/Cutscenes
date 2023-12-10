@@ -1,141 +1,113 @@
 [{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_200211_WanYeXianVideo.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_200211_WanYeXianVideo.mp4",
+		"url": "./Inazuma/Cs_200211_WanYeXianVideo.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_200803_ShougunBossPart1_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_200803_ShougunBossPart1_Boy.mp4",
+		"url": "./Inazuma/Cs_200803_ShougunBossPart1_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_200803_ShougunBossPart1_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_200803_ShougunBossPart1_Girl.mp4",
+		"url": "./Inazuma/Cs_200803_ShougunBossPart1_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_200806_ShougunBossPart2_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_200806_ShougunBossPart2_Boy.mp4",
+		"url": "./Inazuma/Cs_200806_ShougunBossPart2_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_200806_ShougunBossPart2_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_200806_ShougunBossPart2_Girl.mp4",
+		"url": "./Inazuma/Cs_200806_ShougunBossPart2_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_200919_SHG_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_200919_SHG_Boy.mp4",
+		"url": "./Inazuma/Cs_200919_SHG_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_200919_SHG_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_200919_SHG_Girl.mp4",
+		"url": "./Inazuma/Cs_200919_SHG_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_201104_DaoQiDengdao_P2_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_201104_DaoQiDengdao_P2_Boy.mp4",
+		"url": "./Inazuma/Cs_201104_DaoQiDengdao_P2_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_201104_DaoQiDengdao_P2_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_201104_DaoQiDengdao_P2_Girl.mp4",
+		"url": "./Inazuma/Cs_201104_DaoQiDengdao_P2_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_AQ202004_ResistanceCharge_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_AQ202004_ResistanceCharge_Boy.mp4",
+		"url": "./Inazuma/Cs_Inazuma_AQ202004_ResistanceCharge_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_AQ202004_ResistanceCharge_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_AQ202004_ResistanceCharge_Girl.mp4",
+		"url": "./Inazuma/Cs_Inazuma_AQ202004_ResistanceCharge_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_AQ202004_StatueDeprivedVision_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_AQ202004_StatueDeprivedVision_Boy.mp4",
+		"url": "./Inazuma/Cs_Inazuma_AQ202004_StatueDeprivedVision_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_AQ202004_StatueDeprivedVision_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_AQ202004_StatueDeprivedVision_Girl.mp4",
+		"url": "./Inazuma/Cs_Inazuma_AQ202004_StatueDeprivedVision_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_AQ202005_InazumaMucha.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_AQ202005_InazumaMucha.mp4",
+		"url": "./Inazuma/Cs_Inazuma_AQ202005_InazumaMucha.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_AQ202006_InazumaEnding.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_AQ202006_InazumaEnding.mp4",
+		"url": "./Inazuma/Cs_Inazuma_AQ202006_InazumaEnding.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1200905_IttoOniStroy01.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1200905_IttoOniStroy01.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1200905_IttoOniStroy01.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1202615_IttoDungeonCrash_Boy.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1202615_IttoDungeonCrash_Girl.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1202615_IttoDungeonCrash_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1202618_IttoOniStroy02.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1202618_IttoOniStroy02.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1202618_IttoOniStroy02.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1203105_YaeMiko_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1203105_YaeMiko_Boy.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1203105_YaeMiko_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1203105_YaeMiko_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1203105_YaeMiko_Girl.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1203105_YaeMiko_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1204205_IntoTheVoid_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1204205_IntoTheVoid_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1204208_TheSacredTree_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1204208_TheSacredTree_Boy.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1204208_TheSacredTree_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_Inazuma_LQ1204208_TheSacredTree_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_Inazuma_LQ1204208_TheSacredTree_Girl.mp4",
+		"url": "./Inazuma/Cs_Inazuma_LQ1204208_TheSacredTree_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_LQ12008_Ayaka_Boy.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LQ12008_Ayaka_Boy.mp4",
+		"url": "./Inazuma/Cs_LQ12008_Ayaka_Boy.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_LQ12008_Ayaka_Girl.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_LQ12008_Ayaka_Girl.mp4",
+		"url": "./Inazuma/Cs_LQ12008_Ayaka_Girl.mp4"
 	},
 	{
-		"type": "video/mp4",
-		"src": "./Inazuma/Cs_XLQ1110104_XiaoPersonal.mp4",
-		"tumb": "movie.jpg"
+		"title": "Cs_XLQ1110104_XiaoPersonal.mp4",
+		"url": "./Inazuma/Cs_XLQ1110104_XiaoPersonal.mp4"
 	}
 ]
