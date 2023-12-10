@@ -1,176 +1,176 @@
 [{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30061401_ALPlay_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30061401_ALPlay_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30061401_ALPlay_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30061401_ALPlay_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30130101_DofFG_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30130101_DofFG_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30130101_DofFG_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30130101_DofFG_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30161501_DT_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30161501_DT_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30161501_DT_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30161501_DT_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30170601_SOfS.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30170601_SOfS.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30170602_GF_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30170602_GF_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30170602_GF_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30170602_GF_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ302009_MOTM.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ302009_MOTM.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ302103_FOTD_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ302103_FOTD_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ302103_FOTD_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ302103_FOTD_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ302105_GOTP.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ302105_GOTP.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30220701_ALC_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30220701_ALC_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30220701_ALC_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30220701_ALC_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ30221401_DinA.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ30221401_DinA.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ801211_LM_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ801211_LM_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ801211_LM_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ801211_LM_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30280701_MS_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30280701_MS_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30280701_MS_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30280701_MS_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30280901_SKP_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30280901_SKP_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30280901_SKP_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30280901_SKP_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30281101_NBS_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30281101_NBS_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30281101_NBS_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30281101_NBS_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30281901_DM.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30281901_DM.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30310701_HB_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30310701_HB_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_AQ_30310701_HB_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_AQ_30310701_HB_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_LQ130111201_EnODeGa_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_LQ130111201_EnODeGa_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_LQ130111201_EnODeGa_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_LQ130111201_EnODeGa_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_LQ130221401_NF_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_LQ130221401_NF_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_LQ130221401_NF_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_LQ130221401_NF_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_LQ1302712_DCI_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_LQ1302712_DCI_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_LQ1302712_DCI_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_LQ1302712_DCI_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_LQ1303208_KLX_Boy.mp4",
+		"src": "./Sumeru/Cs_Sumeru_LQ1303208_KLX_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": ".\Sumeru\Cs_Sumeru_LQ1303208_KLX_Girl.mp4",
+		"src": "./Sumeru/Cs_Sumeru_LQ1303208_KLX_Girl.mp4",
 		"tumb": "movie.jpg"
 	}
 ]
