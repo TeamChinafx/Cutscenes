@@ -1,56 +1,56 @@
 [{
 		"type": "video/mp4",
-		"src": "Ambor_Readings.mp4",
+		"src": ".\Mondstadt\Ambor_Readings.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "ChangeWeather.mp4",
+		"src": ".\Mondstadt\ChangeWeather.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "Cs_MDAQ018_MDCityShow.mp4",
+		"src": ".\Mondstadt\Cs_MDAQ018_MDCityShow.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "Cs_MDAQ019_DragonInCity_Boy.mp4",
+		"src": ".\Mondstadt\Cs_MDAQ019_DragonInCity_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "Cs_MDAQ019_DragonInCity_Girl.mp4",
+		"src": ".\Mondstadt\Cs_MDAQ019_DragonInCity_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "Cs_MDAQ071_Davalin_Boy.mp4",
+		"src": ".\Mondstadt\Cs_MDAQ071_Davalin_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "Cs_MDAQ071_Davalin_Girl.mp4",
+		"src": ".\Mondstadt\Cs_MDAQ071_Davalin_Girl.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "Cs_WDLQ004_VentiLegends.mp4",
+		"src": ".\Mondstadt\Cs_WDLQ004_VentiLegends.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "MDAQ041.mp4",
+		"src": ".\Mondstadt\MDAQ041.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "MDAQ063_ZhaiXingYaSideB_Boy.mp4",
+		"src": ".\Mondstadt\MDAQ063_ZhaiXingYaSideB_Boy.mp4",
 		"tumb": "movie.jpg"
 	},
 	{
 		"type": "video/mp4",
-		"src": "MDAQ063_ZhaiXingYaSideB_Girl.mp4",
+		"src": ".\Mondstadt\MDAQ063_ZhaiXingYaSideB_Girl.mp4",
 		"tumb": "movie.jpg"
 	}
 ]
