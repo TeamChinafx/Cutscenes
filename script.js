@@ -25,11 +25,12 @@ function switchTab(tab) {
 
 // 定义一个函数，用于加载视频列表
 function loadVideos(tab) {
-    // 获取视频列表元素
-    var videoListElement = document.getElementById("video-list");
 
-    // 清空视频列表元素的内容
-    videoListElement.innerHTML = "";
+    // 获取页面中的视频列表元素
+    var videoList = document.getElementById("video-list");
+
+    //清空
+    videoList.innerHTML = "";
 
     // 根据标签名拼接json文件的路径
     var jsonPath = "./" + tab + "/list.json";
@@ -56,17 +57,33 @@ function loadVideos(tab) {
                 var title = data[i].title;
                 var url = data[i].url;
 
-                // 创建一个视频项元素，设置其内容为视频标题和视频链接
-                var videoItemElement = document.createElement("div");
-                videoItemElement.className = "video-item";
-                videoItemElement.innerHTML = "<h3>" + title + "</h3>" + "<a href='" + url + "'>" + url + "</a>";
+            // 创建一个视频项元素，设置其样式和内容
+            var videoItem = document.createElement("div");
+            videoItem.className = "video-item";
+            videoItem.innerHTML = "<h3>" + title + "</h3>";
 
-                // 将视频项元素添加到视频列表元素中
-                videoListElement.appendChild(videoItemElement);
-            }
-        } else {
+            // 创建一个视频元素，设置其属性和事件监听器
+            var video = document.createElement("video");
+            video.src = url;
+            video.width = 720;
+            video.height = 480;
+            video.controls = true;
+            video.addEventListener("click", function() {
+                // 点击视频时，暂停或播放视频
+                if (this.paused) {
+                    this.play();
+                } else {
+                    this.pause();
+                }
+            });
+            videoItem.appendChild(video);
+
+            // 将视频项元素添加到视频列表元素中
+            videoList.appendChild(videoItem);
+        }
+    } else {
             // 如果请求失败，显示错误信息
-            videoListElement.innerHTML = "<p>加载失败，请检查json文件是否存在或格式是否正确</p>";
+            videoList.innerHTML = "<p>加载失败，请检查json文件是否存在或格式是否正确</p>";
         }
     };
 
